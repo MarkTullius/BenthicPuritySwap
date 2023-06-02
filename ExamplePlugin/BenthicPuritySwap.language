@@ -1,0 +1,24 @@
+{
+  "en": {
+    "PHILSBENTHICPURITYSWAP_VOIDBADLUCK_NAME": "Purity",
+    "PHILSBENTHICPURITYSWAP_VOIDBADLUCK_PICKUP" : "Reduce your skill cooldowns by 2 seconds. <style=cIsVoid>Corrupts all 57 Leaf Clovers</style>.",
+    "PHILSBENTHICPURITYSWAP_VOIDBADLUCK_DESC": "All skill cooldowns are reduced by <style=cIsUtility>2</style> <style=cStack>(+1 per stack)</style> seconds. <style=cIsVoid>Corrupts all 57 Leaf Clovers</style>.", 
+    "PHILSBENTHICPURITYSWAP_VOIDBADLUCK_LORE": "It looks like starseed, tanning in dirt.\r\nIt smells like hot stone, and tall grass.\r\nIt tastes like spiced fruit, sweet and hot.\r\nIt feels like solar winds, and solar chimes.\r\nIt sounds like two brothers, chasing glass frogs in the sun.\r\n",
+
+    "PHILSBENTHICPURITYSWAP_CLOVERLUNAR_NAME": "Benthic Bloom",
+    "PHILSBENTHICPURITYSWAP_CLOVERLUNAR_PICKUP": "Upgrades your items at the start of each stage. <color=#FF7F7F>You are unlucky.</color>",
+    "PHILSBENTHICPURITYSWAP_CLOVERLUNAR_DESC": "<style=cIsUtility>Upgrades 3</style> <style=cStack>(+3 per stack)</style> random items to items of the next <style=cIsUtility>higher rarity</style> at the <style=cIsUtility>start of each stage</style>. All random effects are rolled <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> times for an <style=cIsHealth>unfavorable outcome</style>.",
+    "PHILSBENTHICPURITYSWAP_CLOVERLUNAR_LORE": "\"Luck? Who needs luck, in a place like this.\n\nTo survive here, you'd need more than just luck. You need intuition. Instinct. The right tools. Power.\n\nI know you're scared. And I am too. But if there's anything this hell hole has taught me...\n\nWe make our own luck.\"\n\n- Signal Echoes, UES Contact Light"
+  },
+  "de": {
+    "PHILSBENTHICPURITYSWAP_VOIDBADLUCK_NAME": "Reinheit",
+    "PHILSBENTHICPURITYSWAP_VOIDBADLUCK_PICKUP": "Reduziert deine Fertigkeitsabklingzeiten um 2 Sekunden. <style=cIsVoid>Korrumpiert alle 57-blättrigen Kleeblätter</style>.",
+    "PHILSBENTHICPURITYSWAP_VOIDBADLUCK_DESC": "Alle Fähigkeitsabklingzeiten werden um <style=cIsUtility>2</style> Sekunden <style=cStack>(+1 pro Stapel)</style> reduziert. <style=cIsVoid>Korrumpiert alle 57-blättrigen Kleeblätter</style>.",
+    "PHILSBENTHICPURITYSWAP_VOIDBADLUCK_LORE": "Sieht aus wie Sternensaat, die sich im Schmutz bräunt.\r\nRiecht wie heißer Stein, und hohes Gras.\r\nSchmeckt wie gewürzte Frucht, süß und scharf.\r\nFühlt sich an wie Solarwinde und Solarglockenspiele.\r\nEs klingt wie zwei Brüder, die Glasfrösche in der Sonne jagen.\r\n",
+    
+    "PHILSBENTHICPURITYSWAP_CLOVERLUNAR_NAME": "Benthische Blüte",
+    "PHILSBENTHICPURITYSWAP_CLOVERLUNAR_PICKUP": "Erhöht die Stufe deiner Gegenstände am Beginn jeder Ebene. <color=#FF7F7F>Du hast kein Glück.</color>", 
+    "PHILSBENTHICPURITYSWAP_CLOVERLUNAR_DESC": "<style=cIsUtility>Erhöht die <style=cIsUtility>Seltenheit</style> von 3</style> <style=cStack>(+3 pro Stapel)</style> zufälligen Gegenständen am <style=cIsUtility>Beginn jeder Ebene</style>. Alle zufälligen Effekte werden <style=cIsUtility>+1</style> <style=cStack>(+1 pro Stapel)</style> Mal für ein <style=cIsHealth>ungünstiges Ergebnis</style> ausgewürfelt.",
+    "PHILSBENTHICPURITYSWAP_CLOVERLUNAR_LORE": "\"Glück? Wer braucht an einem Ort wie diesem Glück?\n\nUm hier zu überleben, braucht man mehr als das. Man braucht Intuition. Instinkt. Die richtigen Werkzeuge. Kraft.\n\nIch weiß, dass du Angst hast. Die habe ich auch. Aber wenn mich dieses Höllenloch irgendetwas gelehrt hat, dann das …\n\nWir sind unseres eigenen Glückes Schmied.\"\n\n– Signalechos, UES Contact Light"
+  }
+}

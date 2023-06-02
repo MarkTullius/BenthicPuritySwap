@@ -1,0 +1,14 @@
+﻿{
+	"name": "PhilsBenthicPuritySwap",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Swaps tiers and some behavior of Benthic Bloom with that of Purity.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2112",
+		"RiskofThunder-HookGenPatcher-1.2.3",
+		"RiskofThunder-R2API_Items-1.0.2",
+		"RiskofThunder-R2API_Language-1.0.1",
+		"RiskofThunder-R2API_RecalculateStats-1.2.0",
+		"RumblingJOSEPH-VoidItemAPI-1.1.0"
+	]
+}

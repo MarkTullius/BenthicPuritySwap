@@ -1,9 +1,15 @@
-# R2Boilerplate
+# Phils Benthic Purity Swap
 
-This repository contains a sample mod for Risk of Rain 2.
+Highly inspired by [BloomPuritySwap](https://thunderstore.io/package/MarkTullius/BloomPuritySwap/) but slightly changed since I wasn't satisfied with how BloomPuritySwap implemented this swap.
 
-You can clone this repository, open the visual studio solution file and compile it immediately.
+### Benthic Bloom
+- Changes Tier to Lunar
+- Upgrades items as normal
+- Reduces luck by 1 per Bloom
+- No longer Corrupts 57 Leaf Clovers
 
-This repository is meant to represent best practices for starting a simple mod.
-
-Once your mod get compiled, you can utilize the Thunderstore folder for later uploading it to https://thunderstore.io/c/riskofrain2/
+### Purity
+- Changes Tier to Void Red
+- Reduces cooldowns as normal
+- No longer reduces luck
+- Corrupts all 57 Leaf Clovers
